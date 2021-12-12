@@ -5,7 +5,7 @@ La primera consistia en crear un juego de ajedrez, el cual nos permitiese mover 
 
 La seunda consistía en crear una función que una vez finalizado el juego nos permitiese revisar el tablero deseado
 
-Para esta tarea mi repositorio final es el siguiente:
+Para esta tarea mi repositorio final es el siguiente: https://github.com/acasasaez/ajedrez.2.git
 
 EL diagrama de flujo que representa mi programa es el siguiente:
 
