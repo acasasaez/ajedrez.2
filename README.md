@@ -12,7 +12,7 @@ EL diagrama de flujo que representa mi programa es el siguiente:
 ![fijma sobre el ajedrez](https://user-images.githubusercontent.com/91721826/145732618-4c8f08c1-8132-4f14-b6b3-c6e02a0ab1ea.jpg)
 
 finalmente, mi código es el que se muestra a continuación:
-´´tablero_inicial = '♜\t♞\t♝\t♛\t♚\t♝\t♞\t♜\n♟\t♟\t♟\t♟\t♟\t♟\t♟\t♟\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n♙\t♙\t♙\t♙\t♙\t♙\t♙\t♙\n♖\t♘\t♗\t♕\t♔\t♗\t♘\t♖'
+```tablero_inicial = '♜\t♞\t♝\t♛\t♚\t♝\t♞\t♜\n♟\t♟\t♟\t♟\t♟\t♟\t♟\t♟\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n♙\t♙\t♙\t♙\t♙\t♙\t♙\t♙\n♖\t♘\t♗\t♕\t♔\t♗\t♘\t♖'
 a = open ("./aje.txt","w", encoding="utf-8")
 a.write(tablero_inicial)
 a.close
