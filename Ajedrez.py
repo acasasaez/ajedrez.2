@@ -6,4 +6,8 @@ tablero = []
 def movimiento():
     for i in tablero_inicial.split("\n"):
         tablero.append(i.split("\t"))
- 
+    fichero
+    for i in tablero:
+        fichero.write("/t".join(i) + "n")
+    fichero.close()
+    
